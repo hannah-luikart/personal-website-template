@@ -1,6 +1,7 @@
 // This file contains the website's content and component structure
 import './App.css'
 import profileImage from './assets/profile.jpg'
+// Hi!!!!! 
 
 // This object stores the words and links shown on the page.
 // You can edit the text here without needing to change the layout below.
